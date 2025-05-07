@@ -27,10 +27,9 @@ To write a Python program to define the abstract base class named `Polygon` and 
 
 
 ### PROGRAM
+## Reg no-212223090008
+## Name-Harinishri S
 ```
-Reg no-212223090008
-Name-Harinishri S
-
 from abc import ABC   
 class Polygon(ABC):   
    # abstract method   
@@ -53,13 +52,10 @@ class square(Polygon):
       print("I have 4 sides")     
 t = Triangle ()  
 t.sides()  
-  
 s = square()
 s.sides() 
-  
 p = Pentagon()  
 p.sides()
-  
 k = Hexagon() 
 k.sides()
 ```
