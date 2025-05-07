@@ -26,9 +26,9 @@ create a new instance of the Counter class and calls the increment() method thre
 ---
 
 ### PROGRAM
+# Reg no-212223090008
+# Name-Harinishri S
 ```
-Reg no-212223090008
-Name-Harinishri S
 class Counter:
     def __init__(self):
         self.current = 0
