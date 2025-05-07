@@ -19,9 +19,9 @@ To write a Python program to create a class `Student` with the private members `
 9. **End the program.**
 
 ### PROGRAM
+# Reg no-212223090008
+# Name-Harinishri S
 ```
-Reg no-212223090008
-Name-Harinishri S
 class Student:
     def __init__(self, name, age):
         self.name = name
